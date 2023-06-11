@@ -1,5 +1,5 @@
 # CityNews
-### By Kalyan Mishra ✔
+### By Khushboo Kumari ✔
 
 CityNews is a news Application in which folllowing functionality are included<br>
 > 1. Breaking news in web-view <br>
